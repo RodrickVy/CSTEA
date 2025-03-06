@@ -13,6 +13,9 @@ This content is designed to complement, not replace, the materials provided in o
 - [Notes (credit to Shivaun)](https://shiv-bartoo.notion.site/Java-Software-Solutions-Foundations-of-Program-Design-9th-Edition-165853d0af3842c1960e2dedcdfbaeec#18b64c098dfe808d9c34c3aff3c47037)
 - [Lecture Slides 1](./1510_JAVA/Chap%205_6_conditions_loops/Chap_05_slides.pdf) 
 - [Lecture Slides 2](./1510_JAVA/Chap%205_6_conditions_loops/Chap_06_slides.pdf)
+- [Bruce Code Examples Ch. 5](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch05?ref_type=heads)
+- [Burce Code Examples Ch. 6](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch06?ref_type=heads)
+
 <hr>
 
 
