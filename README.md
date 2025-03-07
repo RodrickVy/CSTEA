@@ -12,7 +12,7 @@ This content is designed to complement, not replace, the materials provided in o
 - [Quizlet Study Set](https://quizlet.com/ca/1014778872/1-introduction-to-java-programming-flash-cards/?i=2a81is&x=1jqt)
 - [Notes (credit to Shivaun)](https://shiv-bartoo.notion.site/Java-Software-Solutions-Foundations-of-Program-Design-9th-Edition-165853d0af3842c1960e2dedcdfbaeec#5993e279bdf64212a2cd032690d7b884)
 - [Lecture Slides](./1510_JAVA/chapter1/slides.pdf) 
-- [Bruce Code Examples Ch. 1](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch01?ref_type=heads)
+- [Bruce Code Examples ](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch01?ref_type=heads)
  
 ### 2 Data and Expressions
 
@@ -22,7 +22,7 @@ This content is designed to complement, not replace, the materials provided in o
 - [Quizlet Study Set](https://quizlet.com/ca/1015219896/2-data-and-expressions-in-java-flash-cards/?i=2a81is&x=1jqt)
 - [Notes (credit to Shivaun)](https://shiv-bartoo.notion.site/Java-Software-Solutions-Foundations-of-Program-Design-9th-Edition-165853d0af3842c1960e2dedcdfbaeec?pvs=25#507e04d9c56549039f4f7602de693267)
 - [Lecture Slides](./1510_JAVA/chapter2/slides.pdf) 
-- [Bruce Code Examples Ch. 1](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch02?ref_type=heads)
+- [Bruce Code Examples  ](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch02?ref_type=heads)
  
 
 
