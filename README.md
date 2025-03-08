@@ -13,7 +13,9 @@ This content is designed to complement, not replace, the materials provided in o
 - [Notes (credit to Shivaun)](https://shiv-bartoo.notion.site/Java-Software-Solutions-Foundations-of-Program-Design-9th-Edition-165853d0af3842c1960e2dedcdfbaeec#5993e279bdf64212a2cd032690d7b884)
 - [Lecture Slides](./1510_JAVA/chapter1/slides.pdf) 
 - [Bruce Code Examples ](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch01?ref_type=heads)
- 
+- [Book Chapter Excerpt](./1510_JAVA/chapter1/chapter_excerpt.pdf)
+
+
 ### 2 Data and Expressions
 
 <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="./1510_JAVA/chapter2/podcast.wav">Your browser does not support the audio tag.</audio>
@@ -23,6 +25,7 @@ This content is designed to complement, not replace, the materials provided in o
 - [Notes (credit to Shivaun)](https://shiv-bartoo.notion.site/Java-Software-Solutions-Foundations-of-Program-Design-9th-Edition-165853d0af3842c1960e2dedcdfbaeec?pvs=25#507e04d9c56549039f4f7602de693267)
 - [Lecture Slides](./1510_JAVA/chapter2/slides.pdf) 
 - [Bruce Code Examples  ](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch02?ref_type=heads)
+- [Book Chapter Excerpt](./1510_JAVA/chapter2/chapter_excerpt.pdf)
  
 ### 3 Using Classes and Objects
 
@@ -32,8 +35,8 @@ This content is designed to complement, not replace, the materials provided in o
 - [Quizlet Study Set](https://quizlet.com/ca/1015219896/2-data-and-expressions-in-java-flash-cards/?i=2a81is&x=1jqt)
 - [Notes (credit to Shivaun)](https://shiv-bartoo.notion.site/Java-Software-Solutions-Foundations-of-Program-Design-9th-Edition-165853d0af3842c1960e2dedcdfbaeec?pvs=25#507e04d9c56549039f4f7602de693267)
 - [Lecture Slides](./1510_JAVA/chapter2/slides.pdf) 
-- [Bruce Code Examples  ](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch02?ref_type=heads)
- 
+- [Bruce Code Examples  ](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch03?ref_type=heads)
+- [Book Chapter Excerpt](./1510_JAVA/chapter3/chapter_excerpt.pdf)
 
 
 ### 5-6 CONDITIONALS & LOOPS
@@ -47,7 +50,7 @@ This content is designed to complement, not replace, the materials provided in o
 - [Lecture Slides 2](./1510_JAVA/chapter5_6/Chap_06_slides.pdf)
 - [Bruce Code Examples Ch. 5](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch05?ref_type=heads)
 - [Burce Code Examples Ch. 6](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch06?ref_type=heads)
-
+- [Book Chapter Excerpt](./1510_JAVA/chapter5_6/chapters_excerpt.pdf.pdf)
 
 
 ### 7 Object-Oriented Design
@@ -59,7 +62,7 @@ This content is designed to complement, not replace, the materials provided in o
 - [Notes (credit to Shivaun)](https://shiv-bartoo.notion.site/Java-Software-Solutions-Foundations-of-Program-Design-9th-Edition-165853d0af3842c1960e2dedcdfbaeec?pvs=25#1ad64c098dfe8090a8aee28dedb35c3d)
 - [Lecture Slides 1](./1510_JAVA/chapter7/slides.pdf) 
 - [Bruce Code Examples Ch. 7](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch07?ref_type=heads)
-
+- [Book Chapter Excerpt](./1510_JAVA/chapter7/chapters_excerpt.pdf)
 <hr>
 
 
