@@ -32,12 +32,22 @@ This content is designed to complement, not replace, the materials provided in o
 <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="./1510_JAVA/chapter3/podcast.wav">Your browser does not support the audio tag.</audio>
 
 - [Podcast](./1510_JAVA/chapter3/podcast.wav)
-- [Quizlet Study Set](https://quizlet.com/ca/1015219896/2-data-and-expressions-in-java-flash-cards/?i=2a81is&x=1jqt)
-- [Notes (credit to Shivaun)](https://shiv-bartoo.notion.site/Java-Software-Solutions-Foundations-of-Program-Design-9th-Edition-165853d0af3842c1960e2dedcdfbaeec?pvs=25#507e04d9c56549039f4f7602de693267)
-- [Lecture Slides](./1510_JAVA/chapter2/slides.pdf) 
+- [Quizlet Study Set](https://quizlet.com/ca/1015448949/3-using-classes-and-objects-in-java-flash-cards/?i=2a81is&x=1jqt)
+- [Notes (credit to Shivaun)](https://shiv-bartoo.notion.site/Java-Software-Solutions-Foundations-of-Program-Design-9th-Edition-165853d0af3842c1960e2dedcdfbaeec#18364c098dfe8016b31aec639e4e078d)
+- [Lecture Slides](./1510_JAVA/chapter3/slides.pdf) 
 - [Bruce Code Examples  ](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch03?ref_type=heads)
 - [Book Chapter Excerpt](./1510_JAVA/chapter3/chapter_excerpt.pdf)
 
+### 4 Writing Classes
+
+<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="./1510_JAVA/chapter4/podcast.wav">Your browser does not support the audio tag.</audio>
+
+- [Podcast](./1510_JAVA/chapter4/podcast.wav)
+- [Quizlet Study Set](https://quizlet.com/ca/1015593380/writing-classes-in-java-key-concepts-and-principles-flash-cards/?i=2a81is&x=1jqt)
+- [Notes (credit to Shivaun)](https://shiv-bartoo.notion.site/Java-Software-Solutions-Foundations-of-Program-Design-9th-Edition-165853d0af3842c1960e2dedcdfbaeec#18364c098dfe8016b31aec639e4e078d)
+- [Lecture Slides](./1510_JAVA/chapter4/slides.pdf) 
+- [Bruce Code Examples  ](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch04?ref_type=heads)
+- [Book Chapter Excerpt](./1510_JAVA/chapter4/chapter_excerpt.pdf)
 
 ### 5-6 CONDITIONALS & LOOPS
 
