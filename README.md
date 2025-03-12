@@ -72,7 +72,7 @@ This content is designed to complement, not replace, the materials provided in o
 - [Notes (credit to Shivaun)](https://shiv-bartoo.notion.site/Java-Software-Solutions-Foundations-of-Program-Design-9th-Edition-165853d0af3842c1960e2dedcdfbaeec?pvs=25#1ad64c098dfe8090a8aee28dedb35c3d)
 - [Lecture Slides 1](./1510_JAVA/chapter7/slides.pdf) 
 - [Bruce Code Examples Ch. 7](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch07?ref_type=heads)
-- [Book Chapter Excerpt](./1510_JAVA/chapter7/chapters_excerpt.pdf)
+- [Book Chapter Excerpt](./1510_JAVA/chapter7/chapter_excerpt.pdf)
 <hr>
 
 
