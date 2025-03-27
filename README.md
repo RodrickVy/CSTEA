@@ -70,10 +70,25 @@ This content is designed to complement, not replace, the materials provided in o
 - [Podcast](./1510_JAVA/chapter7/podcast.wav)
 - [Quizlet Study Set](https://quizlet.com/ca/1015149071/7-object-oriented-design-flash-cards/?i=2a81is&x=1jqt)
 - [Notes (credit to Shivaun)](https://shiv-bartoo.notion.site/Java-Software-Solutions-Foundations-of-Program-Design-9th-Edition-165853d0af3842c1960e2dedcdfbaeec?pvs=25#1ad64c098dfe8090a8aee28dedb35c3d)
-- [Lecture Slides 1](./1510_JAVA/chapter7/slides.pdf) 
+- [Lecture Slides ](./1510_JAVA/chapter7/slides.pdf) 
 - [Bruce Code Examples Ch. 7](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch07?ref_type=heads)
 - [Book Chapter Excerpt](./1510_JAVA/chapter7/chapter_excerpt.pdf)
+
+### 8 Arrays
+
+<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="./1510_JAVA/chapter8/podcast.wav">Your browser does not support the audio tag.</audio>
+
+- [Podcast](./1510_JAVA/chapter8/podcast.wav)
+- [Quizlet Study Set](https://quizlet.com/ca/1023792509/chapter-8-understanding-arrays-in-java-flash-cards/?i=2a81is&x=1jqt)
+- [Notes (credit to Shivaun)](https://shiv-bartoo.notion.site/Java-Software-Solutions-Foundations-of-Program-Design-9th-Edition-165853d0af3842c1960e2dedcdfbaeec?pvs=25#1ad64c098dfe8090a8aee28dedb35c3d)
+- [Lecture Slides](./1510_JAVA/chapter8/slides.pdf)
+- [Bruce Code Examples Ch. 8](https://gitlab.infoteach.ca/bdlink/comp-1510-examples/-/tree/master/src/ca/bcit/comp1510/ch08?ref_type=heads)
+- [Book Chapter Excerpt](./1510_JAVA/chapter8/chapter_excerpt.pdf)
+- [Lab](./1510_JAVA/chapter8/lab.pdf)
+
+
 <hr>
+
 
 
 #### NOTE
